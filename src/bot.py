@@ -137,7 +137,7 @@ def run_discord_bot():
                 `Gemini`: Google gemeni-pro model
 
 For complete documentation, please visit:
-https://github.com/MasReza354/discord-bot""")
+https://github.com/MasReza354/discord-chat-bot""")
 
         logger.info(
             "\x1b[31mSomeone needs help!\x1b[0m")
